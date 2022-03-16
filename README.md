@@ -44,16 +44,18 @@ Skills() {
 [![website](./img/instagram-light.svg)](https://instagram.com/alexander.buyan#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/alexander.buyan#gh-dark-mode-only)
 
+### GitHub Activity
 ![Snake animation](https://github.com/alexbuyan/alexbuyan/blob/output/github-contribution-grid-snake.svg)
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbuyan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbuyan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+
+</details>
+
+### Current Projects 🚀
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexbuyan&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexbuyan&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexbuyan&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexbuyan&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexbuyan&theme=github_dark) -->
 
 [website]: https://alexbuyan.github.io/
 [instagram]: https://instagram.com/alexander.buyan
