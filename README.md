@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![snake gif](https://github.com/alexbuyan/alexbuyan/blob/output/github-contribution-grid-snake.gif)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbuyan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
