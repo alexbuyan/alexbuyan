@@ -55,6 +55,10 @@ Skills() {
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/alexbuyan/pdf-editor/pull/1) in [alexbuyan/pdf-editor](https://github.com/alexbuyan/pdf-editor)
+2. 🎉 Merged PR [#1](https://github.com/Parser-Comparison/Parser-Comparison/pull/1) in [Parser-Comparison/Parser-Comparison](https://github.com/Parser-Comparison/Parser-Comparison)
+3. 💪 Opened PR [#1](https://github.com/Parser-Comparison/Parser-Comparison/pull/1) in [Parser-Comparison/Parser-Comparison](https://github.com/Parser-Comparison/Parser-Comparison)
+<!--END_SECTION:activity-->
 </details>
 
 <details>
