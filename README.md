@@ -48,6 +48,7 @@ Skills() {
 ---
 
 <h2 align="center">GitHub Activity 📈</h2>
+
 ![Snake animation](https://github.com/alexbuyan/alexbuyan/blob/output/github-contribution-grid-snake.svg)
 
 <div align=center>
@@ -59,16 +60,6 @@ Skills() {
 <img src="https://activity-graph.herokuapp.com/graph?username=alexbuyan&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-  <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/alexbuyan/pdf-editor/pull/1) in [alexbuyan/pdf-editor](https://github.com/alexbuyan/pdf-editor)
-2. 🎉 Merged PR [#1](https://github.com/Parser-Comparison/Parser-Comparison/pull/1) in [Parser-Comparison/Parser-Comparison](https://github.com/Parser-Comparison/Parser-Comparison)
-3. 💪 Opened PR [#1](https://github.com/Parser-Comparison/Parser-Comparison/pull/1) in [Parser-Comparison/Parser-Comparison](https://github.com/Parser-Comparison/Parser-Comparison)
-<!--END_SECTION:activity-->
-</details>
-
-<details>
   <summary>:bar_chart: Other Stats</summary>
 <div align=center>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
@@ -78,6 +69,16 @@ Skills() {
   <img align="center" alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexbuyan&theme=dracula" />
 </a>
 </div>
+</details>
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+
+  <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/alexbuyan/pdf-editor/pull/1) in [alexbuyan/pdf-editor](https://github.com/alexbuyan/pdf-editor)
+2. 🎉 Merged PR [#1](https://github.com/Parser-Comparison/Parser-Comparison/pull/1) in [Parser-Comparison/Parser-Comparison](https://github.com/Parser-Comparison/Parser-Comparison)
+3. 💪 Opened PR [#1](https://github.com/Parser-Comparison/Parser-Comparison/pull/1) in [Parser-Comparison/Parser-Comparison](https://github.com/Parser-Comparison/Parser-Comparison)
+<!--END_SECTION:activity-->
 </details>
 
 ---
