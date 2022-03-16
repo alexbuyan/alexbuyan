@@ -49,7 +49,8 @@ Skills() {
 ## GitHub Activity
 ![Snake animation](https://github.com/alexbuyan/alexbuyan/blob/output/github-contribution-grid-snake.svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbuyan&count_private=true&show_icons=true&hide=stars,issues&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexbuyan&count_private=true&show_icons=true&hide=stars,issues&theme=dracula&hide_border=true" />
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
     
@@ -59,10 +60,10 @@ Skills() {
   <summary>:bar_chart: Other Stats</summary>
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexbuyan&theme=dracula" />
+  <img align="left" alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexbuyan&theme=dracula" />
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexbuyan&theme=dracula" />
+  <img align="right" alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexbuyan&theme=dracula" />
 </a>
 </details>
 
