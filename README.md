@@ -55,7 +55,7 @@ Skills() {
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexbuyan&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexbuyan&theme=github_dark) -->
 
-<!-- [website]: https://alexbuyan.github.io/
+[website]: https://alexbuyan.github.io/
 [instagram]: https://instagram.com/alexander.buyan
 [linkedin]: https://www.linkedin.com/in/alexander-buyantuev-063785223/
-[sm-me]: https://sm-me.vercel.app/ -->
+[sm-me]: https://sm-me.vercel.app/
