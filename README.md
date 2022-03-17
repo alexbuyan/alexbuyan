@@ -62,14 +62,14 @@ Skills() {
 <details>
   <summary>:bar_chart: Other Stats</summary>
 <br>
-<div width="100%" align=center>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="left" alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexbuyan&theme=dracula" />
-</a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="right" alt="Commits per day hour" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexbuyan&theme=dracula" />
-</a>
+<div width="100%" align="center">
+<a align="left" href="https://github.com/vn7n24fzkq/github-profile-summary-cards" title="Top Languages by Commit">
+  <img align="left" alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexbuyan&theme=dracula" /></a>
+<a align="right" href="https://github.com/vn7n24fzkq/github-profile-summary-cards" title="Commits per day hour">
+  <img align="right" alt="Commits per day hour" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexbuyan&theme=dracula" /></a>
 </div>
+<br><br><br><br><br><br><br><br><br>
+
 </details>
 
 <details>
