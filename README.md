@@ -89,12 +89,12 @@ Skills() {
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/alexbuyan/BPKProject" title="BPKProject"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbuyan&repo=BPKProject&theme=dracula&hide_border=true"></a>
-  <a align="right" href="https://github.com/Parser-Comparison/Parser-Comparison" title="Parser-Comparison"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Parser-Comparison&repo=Parser-Comparison&theme=dracula&hide_border=true"></a>
+  <a align="right" href="https://github.com/Parser-Comparison/Parser-Comparison" title="Parser-Comparison"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Parser-Comparison&repo=Parser-Comparison&theme=dracula&hide_border=true"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/alexbuyan/pdf-editor" title="pdf-editor"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbuyan&repo=pdf-editor&theme=dracula&hide_border=true"></a>
-  <a align="right" href="https://github.com/alexbuyan/LambdaCalculator" title="LambdaCalculator"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbuyan&repo=LambdaCalculator&theme=dracula&hide_border=true"></a>
+  <a align="right" href="https://github.com/alexbuyan/LambdaCalculator" title="LambdaCalculator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbuyan&repo=LambdaCalculator&theme=dracula&hide_border=true"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
