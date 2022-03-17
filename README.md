@@ -62,7 +62,7 @@ Skills() {
 <details>
   <summary>:bar_chart: Other Stats</summary>
 <br>
-<div align=center>
+<div width="100%" align=center>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img align="left" alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexbuyan&theme=dracula" />
 </a>
