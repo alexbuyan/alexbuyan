@@ -64,10 +64,10 @@ Skills() {
 <br>
 <div align=center>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexbuyan&theme=dracula" />
+  <img align="left" alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexbuyan&theme=dracula" />
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexbuyan&theme=dracula" />
+  <img align="right" alt="Commits per day hour" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexbuyan&theme=dracula" />
 </a>
 </div>
 </details>
