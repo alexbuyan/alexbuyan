@@ -77,9 +77,9 @@ Skills() {
 <br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/alexbuyan/pdf-editor/pull/2) in [alexbuyan/pdf-editor](https://github.com/alexbuyan/pdf-editor)
-2. 💪 Opened PR [#2](https://github.com/alexbuyan/pdf-editor/pull/2) in [alexbuyan/pdf-editor](https://github.com/alexbuyan/pdf-editor)
-3. ❌ Closed PR [#1](https://github.com/alexbuyan/pdf-editor/pull/1) in [alexbuyan/pdf-editor](https://github.com/alexbuyan/pdf-editor)
+1. 💪 Opened PR [#3](https://github.com/alexbuyan/pdf-editor/pull/3) in [alexbuyan/pdf-editor](https://github.com/alexbuyan/pdf-editor)
+2. 🎉 Merged PR [#2](https://github.com/alexbuyan/pdf-editor/pull/2) in [alexbuyan/pdf-editor](https://github.com/alexbuyan/pdf-editor)
+3. 💪 Opened PR [#2](https://github.com/alexbuyan/pdf-editor/pull/2) in [alexbuyan/pdf-editor](https://github.com/alexbuyan/pdf-editor)
 <!--END_SECTION:activity-->
 </details>
 
