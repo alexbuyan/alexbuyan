@@ -77,9 +77,9 @@ Skills() {
 <br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/alexbuyan/pdf-editor/issues/3) in [alexbuyan/pdf-editor](https://github.com/alexbuyan/pdf-editor)
-2. 💪 Opened PR [#3](https://github.com/alexbuyan/pdf-editor/pull/3) in [alexbuyan/pdf-editor](https://github.com/alexbuyan/pdf-editor)
-3. 🎉 Merged PR [#2](https://github.com/alexbuyan/pdf-editor/pull/2) in [alexbuyan/pdf-editor](https://github.com/alexbuyan/pdf-editor)
+1. 🗣 Commented on [#4](https://github.com/alexbuyan/pdf-editor/issues/4) in [alexbuyan/pdf-editor](https://github.com/alexbuyan/pdf-editor)
+2. 💪 Opened PR [#4](https://github.com/alexbuyan/pdf-editor/pull/4) in [alexbuyan/pdf-editor](https://github.com/alexbuyan/pdf-editor)
+3. 🗣 Commented on [#3](https://github.com/alexbuyan/pdf-editor/issues/3) in [alexbuyan/pdf-editor](https://github.com/alexbuyan/pdf-editor)
 <!--END_SECTION:activity-->
 </details>
 
