@@ -12,7 +12,7 @@ AlexBuyan() {
     };
     this.skills = new Skills();
     this.hobbies = {
-        "longboaring",
+        "longboarding",
         "drones"
     };
 }
