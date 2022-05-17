@@ -77,9 +77,9 @@ Skills() {
 <br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Pdf-Creator/pdf-editor/issues/3) in [Pdf-Creator/pdf-editor](https://github.com/Pdf-Creator/pdf-editor)
-2. 🎉 Merged PR [#6](https://github.com/alexbuyan/pdf-editor/pull/6) in [alexbuyan/pdf-editor](https://github.com/alexbuyan/pdf-editor)
-3. 💪 Opened PR [#6](https://github.com/alexbuyan/pdf-editor/pull/6) in [alexbuyan/pdf-editor](https://github.com/alexbuyan/pdf-editor)
+1. 💪 Opened PR [#8](https://github.com/Pdf-Creator/pdf-editor/pull/8) in [Pdf-Creator/pdf-editor](https://github.com/Pdf-Creator/pdf-editor)
+2. 🗣 Commented on [#3](https://github.com/Pdf-Creator/pdf-editor/issues/3) in [Pdf-Creator/pdf-editor](https://github.com/Pdf-Creator/pdf-editor)
+3. 🎉 Merged PR [#6](https://github.com/alexbuyan/pdf-editor/pull/6) in [alexbuyan/pdf-editor](https://github.com/alexbuyan/pdf-editor)
 <!--END_SECTION:activity-->
 </details>
 
