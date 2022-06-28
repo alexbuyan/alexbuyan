@@ -77,9 +77,9 @@ Skills() {
 <br>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/Pdf-Creator/pdf-editor/pull/22) in [Pdf-Creator/pdf-editor](https://github.com/Pdf-Creator/pdf-editor)
-2. 🎉 Merged PR [#21](https://github.com/Pdf-Creator/pdf-editor/pull/21) in [Pdf-Creator/pdf-editor](https://github.com/Pdf-Creator/pdf-editor)
-3. 💪 Opened PR [#21](https://github.com/Pdf-Creator/pdf-editor/pull/21) in [Pdf-Creator/pdf-editor](https://github.com/Pdf-Creator/pdf-editor)
+1. 💪 Opened PR [#23](https://github.com/Pdf-Creator/pdf-editor/pull/23) in [Pdf-Creator/pdf-editor](https://github.com/Pdf-Creator/pdf-editor)
+2. 💪 Opened PR [#22](https://github.com/Pdf-Creator/pdf-editor/pull/22) in [Pdf-Creator/pdf-editor](https://github.com/Pdf-Creator/pdf-editor)
+3. 🎉 Merged PR [#21](https://github.com/Pdf-Creator/pdf-editor/pull/21) in [Pdf-Creator/pdf-editor](https://github.com/Pdf-Creator/pdf-editor)
 <!--END_SECTION:activity-->
 </details>
 
