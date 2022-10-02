@@ -75,9 +75,8 @@ Skills() {
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <br>
-
 <!--RECENT_ACTIVITY:start-->
-
+<!--RECENT_ACTIVITY:end-->
 </details>
 
 ---
