@@ -76,11 +76,8 @@ Skills() {
   <summary>:zap: Recent GitHub Activity</summary>
 <br>
 
-  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/Pdf-Creator/pdf-editor/pull/24) in [Pdf-Creator/pdf-editor](https://github.com/Pdf-Creator/pdf-editor)
-2. 💪 Opened PR [#24](https://github.com/Pdf-Creator/pdf-editor/pull/24) in [Pdf-Creator/pdf-editor](https://github.com/Pdf-Creator/pdf-editor)
-3. 🎉 Merged PR [#22](https://github.com/Pdf-Creator/pdf-editor/pull/22) in [Pdf-Creator/pdf-editor](https://github.com/Pdf-Creator/pdf-editor)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
 </details>
 
 ---
