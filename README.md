@@ -78,9 +78,9 @@ Skills() {
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [alexbuyan/xp_project](https://github.com/alexbuyan/xp_project)
-2. ⬆️ Pushed 2 commit(s) to [alexbuyan/xp_project](https://github.com/alexbuyan/xp_project)
-3. 🎉 Merged PR [#4](https://github.com/alexbuyan/xp_project/pull/4) in [alexbuyan/xp_project](https://github.com/alexbuyan/xp_project)
-4. 💪 Opened PR [#4](https://github.com/alexbuyan/xp_project/pull/4) in [alexbuyan/xp_project](https://github.com/alexbuyan/xp_project)
+2. ⬆️ Pushed 1 commit(s) to [alexbuyan/xp_project](https://github.com/alexbuyan/xp_project)
+3. ⬆️ Pushed 1 commit(s) to [alexbuyan/xp_project](https://github.com/alexbuyan/xp_project)
+4. ⬆️ Pushed 1 commit(s) to [alexbuyan/xp_project](https://github.com/alexbuyan/xp_project)
 5. ⬆️ Pushed 1 commit(s) to [alexbuyan/xp_project](https://github.com/alexbuyan/xp_project)
 <!--RECENT_ACTIVITY:end-->   
 
