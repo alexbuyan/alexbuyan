@@ -77,8 +77,8 @@ Skills() {
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [alexbuyan/xp_project](https://github.com/alexbuyan/xp_project)
-2. ⬆️ Pushed 1 commit(s) to [alexbuyan/xp_project](https://github.com/alexbuyan/xp_project)
+1. ⬆️ Pushed 1 commit(s) to [alexbuyan/database_project](https://github.com/alexbuyan/database_project)
+2. 📔 Created new repository [alexbuyan/database_project](https://github.com/alexbuyan/database_project)
 3. ⬆️ Pushed 1 commit(s) to [alexbuyan/xp_project](https://github.com/alexbuyan/xp_project)
 4. ⬆️ Pushed 1 commit(s) to [alexbuyan/xp_project](https://github.com/alexbuyan/xp_project)
 5. ⬆️ Pushed 1 commit(s) to [alexbuyan/xp_project](https://github.com/alexbuyan/xp_project)
