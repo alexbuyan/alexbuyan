@@ -81,7 +81,7 @@ Skills() {
 2. ⬆️ Pushed 1 commit(s) to [alexbuyan/database_project](https://github.com/alexbuyan/database_project)
 3. ⬆️ Pushed 1 commit(s) to [alexbuyan/database_project](https://github.com/alexbuyan/database_project)
 4. ⬆️ Pushed 1 commit(s) to [alexbuyan/database_project](https://github.com/alexbuyan/database_project)
-5. ⬆️ Pushed 2 commit(s) to [alexbuyan/database_project](https://github.com/alexbuyan/database_project)
+5. ⬆️ Pushed 1 commit(s) to [alexbuyan/database_project](https://github.com/alexbuyan/database_project)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
