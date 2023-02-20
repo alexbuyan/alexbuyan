@@ -77,10 +77,10 @@ Skills() {
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [alexbuyan/database_project](https://github.com/alexbuyan/database_project)
-2. ⬆️ Pushed 1 commit(s) to [alexbuyan/database_project](https://github.com/alexbuyan/database_project)
-3. ⬆️ Pushed 1 commit(s) to [alexbuyan/database_project](https://github.com/alexbuyan/database_project)
-4. ⬆️ Pushed 1 commit(s) to [alexbuyan/database_project](https://github.com/alexbuyan/database_project)
+1. 💪 Opened PR [#1](https://github.com/alexbuyan/HW_SD/pull/1) in [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
+2. 🤝 Became collaborator on [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
+3. 🤝 Became collaborator on [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
+4. 📔 Created new repository [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
 5. ⬆️ Pushed 1 commit(s) to [alexbuyan/database_project](https://github.com/alexbuyan/database_project)
 <!--RECENT_ACTIVITY:end-->   
 
