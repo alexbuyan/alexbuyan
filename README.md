@@ -77,11 +77,11 @@ Skills() {
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/alexbuyan/HW_SD/pull/1) in [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
-2. 🤝 Became collaborator on [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
-3. 🤝 Became collaborator on [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
-4. 📔 Created new repository [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
-5. ⬆️ Pushed 1 commit(s) to [alexbuyan/database_project](https://github.com/alexbuyan/database_project)
+1. 💬 Commented on [#1](https://github.com/alexbuyan/HW_SD/pull/1#issuecomment-1437516768) in [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
+2. ⬆️ Pushed 1 commit(s) to [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
+3. ⬆️ Pushed 1 commit(s) to [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
+4. 💬 Commented on [#1](https://github.com/alexbuyan/HW_SD/pull/1#discussion_r1112010833) in [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
+5. 💪 Opened PR [#1](https://github.com/alexbuyan/HW_SD/pull/1) in [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
