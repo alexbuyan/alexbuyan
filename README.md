@@ -77,8 +77,8 @@ Skills() {
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
-2. ⬆️ Pushed 1 commit(s) to [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
+1. 📔 Created new repository [alexbuyan/computer-networks](https://github.com/alexbuyan/computer-networks)
+2. 📔 Created new repository [alexbuyan/python-course](https://github.com/alexbuyan/python-course)
 3. ⬆️ Pushed 1 commit(s) to [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
 4. ⬆️ Pushed 1 commit(s) to [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
 5. ⬆️ Pushed 1 commit(s) to [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
