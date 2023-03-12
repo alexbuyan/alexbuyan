@@ -78,10 +78,10 @@ Skills() {
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [alexbuyan/python-course](https://github.com/alexbuyan/python-course)
-2. 📔 Created new repository [alexbuyan/computer-networks](https://github.com/alexbuyan/computer-networks)
-3. 📔 Created new repository [alexbuyan/python-course](https://github.com/alexbuyan/python-course)
-4. ⬆️ Pushed 1 commit(s) to [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
-5. ⬆️ Pushed 1 commit(s) to [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
+2. ⬆️ Pushed 1 commit(s) to [alexbuyan/python-course](https://github.com/alexbuyan/python-course)
+3. 💪 Opened PR [#1](https://github.com/alexbuyan/python-course/pull/1) in [alexbuyan/python-course](https://github.com/alexbuyan/python-course)
+4. ⬆️ Pushed 1 commit(s) to [alexbuyan/python-course](https://github.com/alexbuyan/python-course)
+5. 📔 Created new repository [alexbuyan/computer-networks](https://github.com/alexbuyan/computer-networks)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
