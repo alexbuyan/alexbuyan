@@ -77,11 +77,11 @@ Skills() {
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [alexbuyan/computer-networks](https://github.com/alexbuyan/computer-networks)
+1. ⬆️ Pushed 1 commit(s) to [alexbuyan/python-course](https://github.com/alexbuyan/python-course)
 2. ⬆️ Pushed 1 commit(s) to [alexbuyan/python-course](https://github.com/alexbuyan/python-course)
-3. 💪 Opened PR [#2](https://github.com/alexbuyan/computer-networks/pull/2) in [alexbuyan/computer-networks](https://github.com/alexbuyan/computer-networks)
-4. 💪 Opened PR [#1](https://github.com/alexbuyan/computer-networks/pull/1) in [alexbuyan/computer-networks](https://github.com/alexbuyan/computer-networks)
-5. ⬆️ Pushed 1 commit(s) to [alexbuyan/python-course](https://github.com/alexbuyan/python-course)
+3. ⬆️ Pushed 1 commit(s) to [alexbuyan/python-course](https://github.com/alexbuyan/python-course)
+4. 🤝 Became collaborator on [alexbuyan/poetry_test](https://github.com/alexbuyan/poetry_test)
+5. 📔 Created new repository [alexbuyan/poetry_test](https://github.com/alexbuyan/poetry_test)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
