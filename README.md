@@ -77,11 +77,11 @@ Skills() {
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#4](https://github.com/alexbuyan/python-course/pull/4) in [alexbuyan/python-course](https://github.com/alexbuyan/python-course)
-2. ⬆️ Pushed 1 commit(s) to [alexbuyan/python-course](https://github.com/alexbuyan/python-course)
-3. ⬆️ Pushed 1 commit(s) to [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
-4. 💪 Opened PR [#3](https://github.com/alexbuyan/HW_SD/pull/3) in [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
-5. 💪 Opened PR [#3](https://github.com/alexbuyan/python-course/pull/3) in [alexbuyan/python-course](https://github.com/alexbuyan/python-course)
+1. 💪 Opened PR [#5](https://github.com/alexbuyan/python-course/pull/5) in [alexbuyan/python-course](https://github.com/alexbuyan/python-course)
+2. 💪 Opened PR [#4](https://github.com/alexbuyan/python-course/pull/4) in [alexbuyan/python-course](https://github.com/alexbuyan/python-course)
+3. ⬆️ Pushed 1 commit(s) to [alexbuyan/python-course](https://github.com/alexbuyan/python-course)
+4. ⬆️ Pushed 1 commit(s) to [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
+5. 💪 Opened PR [#3](https://github.com/alexbuyan/HW_SD/pull/3) in [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
