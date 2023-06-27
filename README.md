@@ -79,7 +79,6 @@ Skills() {
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Opened PR [#5](https://github.com/alexbuyan/python-course/pull/5) in [alexbuyan/python-course](https://github.com/alexbuyan/python-course)
 2. 💪 Opened PR [#4](https://github.com/alexbuyan/python-course/pull/4) in [alexbuyan/python-course](https://github.com/alexbuyan/python-course)
-3. ⬆️ Pushed 1 commit(s) to [alexbuyan/python-course](https://github.com/alexbuyan/python-course)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
