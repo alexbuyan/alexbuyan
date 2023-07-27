@@ -77,8 +77,10 @@ Skills() {
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
-2. 💪 Opened PR [#7](https://github.com/alexbuyan/HW_SD/pull/7) in [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
+1. ⬆️ Pushed 1 commit(s) to [BOT-AI-dev/.github](https://github.com/BOT-AI-dev/.github)
+2. 📔 Created new repository [BOT-AI-dev/.github](https://github.com/BOT-AI-dev/.github)
+3. ⬆️ Pushed 1 commit(s) to [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
+4. 💪 Opened PR [#7](https://github.com/alexbuyan/HW_SD/pull/7) in [alexbuyan/HW_SD](https://github.com/alexbuyan/HW_SD)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
