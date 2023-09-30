@@ -77,11 +77,11 @@ Skills() {
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
-2. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
+1. ⬆️ Pushed 1 commit(s) to [alexbuyan/ml_projects](https://github.com/alexbuyan/ml_projects)
+2. 📔 Created new repository [alexbuyan/ml_projects](https://github.com/alexbuyan/ml_projects)
 3. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
-4. 🔱 Forked [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course) from [yandexdataschool/nlp_course](https://github.com/yandexdataschool/nlp_course)
-5. ⬆️ Pushed 1 commit(s) to [BOT-AI-dev/.github](https://github.com/BOT-AI-dev/.github)
+4. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
+5. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
