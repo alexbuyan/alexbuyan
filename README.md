@@ -77,9 +77,9 @@ Skills() {
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [alexbuyan/ml_projects](https://github.com/alexbuyan/ml_projects)
-2. 📔 Created new repository [alexbuyan/ml_projects](https://github.com/alexbuyan/ml_projects)
-3. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
+1. 📔 Created new repository [alexbuyan/python_backend](https://github.com/alexbuyan/python_backend)
+2. ⬆️ Pushed 1 commit(s) to [alexbuyan/ml_projects](https://github.com/alexbuyan/ml_projects)
+3. 📔 Created new repository [alexbuyan/ml_projects](https://github.com/alexbuyan/ml_projects)
 4. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
 5. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
 <!--RECENT_ACTIVITY:end-->   
