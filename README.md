@@ -77,11 +77,11 @@ Skills() {
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [alexbuyan/python_backend](https://github.com/alexbuyan/python_backend)
-2. ⬆️ Pushed 1 commit(s) to [alexbuyan/ml_projects](https://github.com/alexbuyan/ml_projects)
-3. 📔 Created new repository [alexbuyan/ml_projects](https://github.com/alexbuyan/ml_projects)
-4. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
-5. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
+1. ⬆️ Pushed 1 commit(s) to [alexbuyan/python_backend](https://github.com/alexbuyan/python_backend)
+2. 💬 Commented on [#1](https://github.com/alexbuyan/python_backend/pull/1#issuecomment-1742218505) in [alexbuyan/python_backend](https://github.com/alexbuyan/python_backend)
+3. 💪 Opened PR [#1](https://github.com/alexbuyan/python_backend/pull/1) in [alexbuyan/python_backend](https://github.com/alexbuyan/python_backend)
+4. 📔 Created new repository [alexbuyan/python_backend](https://github.com/alexbuyan/python_backend)
+5. ⬆️ Pushed 1 commit(s) to [alexbuyan/ml_projects](https://github.com/alexbuyan/ml_projects)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
