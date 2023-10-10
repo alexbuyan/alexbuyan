@@ -77,11 +77,11 @@ Skills() {
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
+1. ⭐ Starred [esokolov/ml-course-hse](https://github.com/esokolov/ml-course-hse)
 2. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
-3. 🤝 Became collaborator on [alexbuyan/python_backend](https://github.com/alexbuyan/python_backend)
-4. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
-5. ⬆️ Pushed 1 commit(s) to [alexbuyan/resume_cv](https://github.com/alexbuyan/resume_cv)
+3. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
+4. 🤝 Became collaborator on [alexbuyan/python_backend](https://github.com/alexbuyan/python_backend)
+5. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
