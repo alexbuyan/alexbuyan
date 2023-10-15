@@ -78,8 +78,8 @@ Skills() {
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
-2. ⬆️ Pushed 26 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
-3. ⭐ Starred [esokolov/ml-course-hse](https://github.com/esokolov/ml-course-hse)
+2. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
+3. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
 4. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
 5. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
 <!--RECENT_ACTIVITY:end-->   
