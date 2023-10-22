@@ -77,10 +77,10 @@ Skills() {
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [alexbuyan/scheduler_bot](https://github.com/alexbuyan/scheduler_bot)
-2. ⭐ Starred [MassonNN/masson-aiogram-template](https://github.com/MassonNN/masson-aiogram-template)
-3. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
-4. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
+1. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
+2. ⬆️ Pushed 16 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
+3. 📔 Created new repository [alexbuyan/scheduler_bot](https://github.com/alexbuyan/scheduler_bot)
+4. ⭐ Starred [MassonNN/masson-aiogram-template](https://github.com/MassonNN/masson-aiogram-template)
 5. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
 <!--RECENT_ACTIVITY:end-->   
 
