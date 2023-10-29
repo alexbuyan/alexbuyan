@@ -77,11 +77,11 @@ Skills() {
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#3](https://github.com/alexbuyan/python_backend/pull/3) in [alexbuyan/python_backend](https://github.com/alexbuyan/python_backend)
+1. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
 2. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
-3. ⬆️ Pushed 16 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
-4. 📔 Created new repository [alexbuyan/scheduler_bot](https://github.com/alexbuyan/scheduler_bot)
-5. ⭐ Starred [MassonNN/masson-aiogram-template](https://github.com/MassonNN/masson-aiogram-template)
+3. ⬆️ Pushed 5 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
+4. ⬆️ Pushed 2 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
+5. 💪 Opened PR [#3](https://github.com/alexbuyan/python_backend/pull/3) in [alexbuyan/python_backend](https://github.com/alexbuyan/python_backend)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
