@@ -77,11 +77,11 @@ Skills() {
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [alexbuyan/vk-big-data](https://github.com/alexbuyan/vk-big-data)
-2. 💪 Opened PR [#1](https://github.com/alexbuyan/vk-big-data/pull/1) in [alexbuyan/vk-big-data](https://github.com/alexbuyan/vk-big-data)
+1. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
+2. ⬆️ Pushed 33 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
 3. ⬆️ Pushed 1 commit(s) to [alexbuyan/vk-big-data](https://github.com/alexbuyan/vk-big-data)
-4. 🔱 Forked [alexbuyan/vk-big-data](https://github.com/alexbuyan/vk-big-data) from [vladErmakov07/bigdata-docker-compose](https://github.com/vladErmakov07/bigdata-docker-compose)
-5. 📔 Created new repository [alexbuyan/vk-big-data](https://github.com/alexbuyan/vk-big-data)
+4. ⬆️ Pushed 1 commit(s) to [alexbuyan/vk-big-data](https://github.com/alexbuyan/vk-big-data)
+5. ⬆️ Pushed 1 commit(s) to [alexbuyan/vk-big-data](https://github.com/alexbuyan/vk-big-data)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
