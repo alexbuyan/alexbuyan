@@ -78,10 +78,10 @@ Skills() {
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
-2. ⬆️ Pushed 33 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
-3. ⬆️ Pushed 1 commit(s) to [alexbuyan/vk-big-data](https://github.com/alexbuyan/vk-big-data)
-4. ⬆️ Pushed 1 commit(s) to [alexbuyan/vk-big-data](https://github.com/alexbuyan/vk-big-data)
-5. ⬆️ Pushed 1 commit(s) to [alexbuyan/vk-big-data](https://github.com/alexbuyan/vk-big-data)
+2. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
+3. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
+4. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
+5. ⬆️ Pushed 33 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
