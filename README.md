@@ -77,11 +77,11 @@ Skills() {
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](https://github.com/alexbuyan/vk-big-data/pull/2) in [alexbuyan/vk-big-data](https://github.com/alexbuyan/vk-big-data)
-2. ⬆️ Pushed 1 commit(s) to [alexbuyan/vk-big-data](https://github.com/alexbuyan/vk-big-data)
-3. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
+1. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
+2. 💪 Opened PR [#2](https://github.com/alexbuyan/vk-big-data/pull/2) in [alexbuyan/vk-big-data](https://github.com/alexbuyan/vk-big-data)
+3. ⬆️ Pushed 1 commit(s) to [alexbuyan/vk-big-data](https://github.com/alexbuyan/vk-big-data)
 4. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
-5. ⬆️ Pushed 6 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
+5. ⬆️ Pushed 1 commit(s) to [alexbuyan/nlp_course](https://github.com/alexbuyan/nlp_course)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
