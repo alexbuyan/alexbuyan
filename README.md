@@ -80,11 +80,11 @@ Skills() {
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [alexbuyan/github-profile-summary-cards](https://github.com/alexbuyan/github-profile-summary-cards) from [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-2. 🔱 Forked [alexbuyan/github-readme-stats](https://github.com/alexbuyan/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. ⬆️ Pushed 1 commit(s) to [alexbuyan/alexbuyan.github.io](https://github.com/alexbuyan/alexbuyan.github.io)
-4. 💪 Opened PR [#3](https://github.com/alexbuyan/alexbuyan.github.io/pull/3) in [alexbuyan/alexbuyan.github.io](https://github.com/alexbuyan/alexbuyan.github.io)
-5. 💪 Opened PR [#1](https://github.com/alexbuyan/team-scheduler-bot/pull/1) in [alexbuyan/team-scheduler-bot](https://github.com/alexbuyan/team-scheduler-bot)
+1. ⬆️ Pushed 1 commit(s) to [alexbuyan/alexbuyan](https://github.com/alexbuyan/alexbuyan)
+2. ⬆️ Pushed 1 commit(s) to [alexbuyan/alexbuyan](https://github.com/alexbuyan/alexbuyan)
+3. ⬆️ Pushed 2 commit(s) to [alexbuyan/alexbuyan](https://github.com/alexbuyan/alexbuyan)
+4. 🎉 Merged PR [#1](https://github.com/alexbuyan/alexbuyan/pull/1) in [alexbuyan/alexbuyan](https://github.com/alexbuyan/alexbuyan)
+5. 💪 Opened PR [#1](https://github.com/alexbuyan/alexbuyan/pull/1) in [alexbuyan/alexbuyan](https://github.com/alexbuyan/alexbuyan)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
