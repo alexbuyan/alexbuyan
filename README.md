@@ -80,11 +80,11 @@ Skills() {
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [alexbuyan/alexbuyan.github.io](https://github.com/alexbuyan/alexbuyan.github.io)
-2. 💪 Opened PR [#3](https://github.com/alexbuyan/alexbuyan.github.io/pull/3) in [alexbuyan/alexbuyan.github.io](https://github.com/alexbuyan/alexbuyan.github.io)
-3. 💪 Opened PR [#1](https://github.com/alexbuyan/team-scheduler-bot/pull/1) in [alexbuyan/team-scheduler-bot](https://github.com/alexbuyan/team-scheduler-bot)
-4. 📔 Created new repository [alexbuyan/team-scheduler-bot](https://github.com/alexbuyan/team-scheduler-bot)
-5. ⭐ Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+1. 🔱 Forked [alexbuyan/github-profile-summary-cards](https://github.com/alexbuyan/github-profile-summary-cards) from [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+2. 🔱 Forked [alexbuyan/github-readme-stats](https://github.com/alexbuyan/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+3. ⬆️ Pushed 1 commit(s) to [alexbuyan/alexbuyan.github.io](https://github.com/alexbuyan/alexbuyan.github.io)
+4. 💪 Opened PR [#3](https://github.com/alexbuyan/alexbuyan.github.io/pull/3) in [alexbuyan/alexbuyan.github.io](https://github.com/alexbuyan/alexbuyan.github.io)
+5. 💪 Opened PR [#1](https://github.com/alexbuyan/team-scheduler-bot/pull/1) in [alexbuyan/team-scheduler-bot](https://github.com/alexbuyan/team-scheduler-bot)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
