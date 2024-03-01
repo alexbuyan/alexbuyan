@@ -80,11 +80,11 @@ Skills() {
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [alexbuyan/alexbuyan](https://github.com/alexbuyan/alexbuyan)
-2. ⬆️ Pushed 1 commit(s) to [alexbuyan/alexbuyan](https://github.com/alexbuyan/alexbuyan)
-3. ⬆️ Pushed 2 commit(s) to [alexbuyan/alexbuyan](https://github.com/alexbuyan/alexbuyan)
-4. 🎉 Merged PR [#1](https://github.com/alexbuyan/alexbuyan/pull/1) in [alexbuyan/alexbuyan](https://github.com/alexbuyan/alexbuyan)
-5. 💪 Opened PR [#1](https://github.com/alexbuyan/alexbuyan/pull/1) in [alexbuyan/alexbuyan](https://github.com/alexbuyan/alexbuyan)
+1. ⬆️ Pushed 1 commit(s) to [alexbuyan/Practical_RL](https://github.com/alexbuyan/Practical_RL)
+2. ⬆️ Pushed 2 commit(s) to [alexbuyan/Practical_RL](https://github.com/alexbuyan/Practical_RL)
+3. 🔱 Forked [alexbuyan/Practical_RL](https://github.com/alexbuyan/Practical_RL) from [yandexdataschool/Practical_RL](https://github.com/yandexdataschool/Practical_RL)
+4. ⬆️ Pushed 1 commit(s) to [alexbuyan/alexbuyan](https://github.com/alexbuyan/alexbuyan)
+5. ⬆️ Pushed 1 commit(s) to [alexbuyan/alexbuyan](https://github.com/alexbuyan/alexbuyan)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
