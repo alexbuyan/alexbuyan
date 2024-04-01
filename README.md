@@ -80,11 +80,11 @@ Skills() {
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [alexbuyan/Practical_RL](https://github.com/alexbuyan/Practical_RL)
-2. ⬆️ Pushed 2 commit(s) to [alexbuyan/Practical_RL](https://github.com/alexbuyan/Practical_RL)
-3. 🔱 Forked [alexbuyan/Practical_RL](https://github.com/alexbuyan/Practical_RL) from [yandexdataschool/Practical_RL](https://github.com/yandexdataschool/Practical_RL)
-4. ⬆️ Pushed 1 commit(s) to [alexbuyan/alexbuyan](https://github.com/alexbuyan/alexbuyan)
-5. ⬆️ Pushed 1 commit(s) to [alexbuyan/alexbuyan](https://github.com/alexbuyan/alexbuyan)
+1. 💪 Opened PR [#2](https://github.com/alexbuyan/Practical_RL/pull/2) in [alexbuyan/Practical_RL](https://github.com/alexbuyan/Practical_RL)
+2. ⭐ Starred [Stable-Baselines-Team/stable-baselines](https://github.com/Stable-Baselines-Team/stable-baselines)
+3. ⬆️ Pushed 1 commit(s) to [AI-Comrades/RoleGameCreator](https://github.com/AI-Comrades/RoleGameCreator)
+4. ⬆️ Pushed 1 commit(s) to [AI-Comrades/RoleGameCreator](https://github.com/AI-Comrades/RoleGameCreator)
+5. ⬆️ Pushed 2 commit(s) to [AI-Comrades/RoleGameCreator](https://github.com/AI-Comrades/RoleGameCreator)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
