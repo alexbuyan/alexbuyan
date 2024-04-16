@@ -3,37 +3,28 @@
 
 <h2 align="center">About me 👨‍💻</h2>
 
-```java
-AlexBuyan() {
-    this.username = "alexbuyan";
-    this.jobs = {
-        "student",
-        "developer"
-    };
-    this.skills = new Skills();
-    this.hobbies = {
-        "longboarding",
-        "drones"
-    };
-}
+```python
+class AlexBuyan:
+    def __init__(self):
+        self.username = "alexbuyan"
+        self.jobs = ["student", "researcher"]
+        self.skills = Skills()
+        self.hobbies = ["cycling", "content creation"]
 
-Skills() {
-    this.languages = {
-        "C/C++",
-        "Java",
-        "Python",
-        "Haskell",
-        "bash"
-    };
-    this.technologies = {"git", "Docker", "LaTeX"};
-    this.studiedCources = {
-        "Algorithms and Data Structures",
-        "Discrete Mathematics",
-        "Probability Theory",
-        "Linear Algebra",
-        "Calculus"
-    };
-}
+class Skills:
+    def __init__(self):
+        self.languages = [
+            "Python",
+            "C/C++",
+            "Java"
+        ]
+        self.technologies = [
+            "git",
+            "SQL",
+            "Docker",
+            "PyTorch",
+            "FastAPI"
+        ]
 ```
 ### Connect with me: 
 <!-- [![website](./img/globe-light.svg)](https://alexbuyan.github.io#gh-light-mode-only)
