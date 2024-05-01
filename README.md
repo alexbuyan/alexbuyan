@@ -71,11 +71,11 @@ class Skills:
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](https://github.com/alexbuyan/Practical_RL/pull/2) in [alexbuyan/Practical_RL](https://github.com/alexbuyan/Practical_RL)
-2. ⭐ Starred [Stable-Baselines-Team/stable-baselines](https://github.com/Stable-Baselines-Team/stable-baselines)
-3. ⬆️ Pushed 1 commit(s) to [AI-Comrades/RoleGameCreator](https://github.com/AI-Comrades/RoleGameCreator)
-4. ⬆️ Pushed 1 commit(s) to [AI-Comrades/RoleGameCreator](https://github.com/AI-Comrades/RoleGameCreator)
-5. ⬆️ Pushed 2 commit(s) to [AI-Comrades/RoleGameCreator](https://github.com/AI-Comrades/RoleGameCreator)
+1. ⬆️ Pushed 1 commit(s) to [alexbuyan/resume_cv](https://github.com/alexbuyan/resume_cv)
+2. ⬆️ Pushed 1 commit(s) to [alexbuyan/alexbuyan](https://github.com/alexbuyan/alexbuyan)
+3. ⬆️ Pushed 1 commit(s) to [alexbuyan/resume_cv](https://github.com/alexbuyan/resume_cv)
+4. ⬆️ Pushed 1 commit(s) to [alexbuyan/RL_algos](https://github.com/alexbuyan/RL_algos)
+5. 📔 Created new repository [alexbuyan/RL_algos](https://github.com/alexbuyan/RL_algos)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
