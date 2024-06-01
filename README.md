@@ -71,11 +71,11 @@ class Skills:
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [alexbuyan/resume_cv](https://github.com/alexbuyan/resume_cv)
-2. ⬆️ Pushed 1 commit(s) to [alexbuyan/alexbuyan](https://github.com/alexbuyan/alexbuyan)
-3. ⬆️ Pushed 1 commit(s) to [alexbuyan/resume_cv](https://github.com/alexbuyan/resume_cv)
-4. ⬆️ Pushed 1 commit(s) to [alexbuyan/RL_algos](https://github.com/alexbuyan/RL_algos)
-5. 📔 Created new repository [alexbuyan/RL_algos](https://github.com/alexbuyan/RL_algos)
+1. 📔 Created new repository [alexbuyan/tg_x_rag](https://github.com/alexbuyan/tg_x_rag)
+2. ⬆️ Pushed 2 commit(s) to [alexbuyan/Practical_RL](https://github.com/alexbuyan/Practical_RL)
+3. ⬆️ Pushed 1 commit(s) to [alexbuyan/Practical_RL](https://github.com/alexbuyan/Practical_RL)
+4. ⬆️ Pushed 1 commit(s) to [alexbuyan/resume_cv](https://github.com/alexbuyan/resume_cv)
+5. ⬆️ Pushed 1 commit(s) to [alexbuyan/alexbuyan](https://github.com/alexbuyan/alexbuyan)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
