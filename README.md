@@ -71,10 +71,10 @@ class Skills:
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [alexbuyan/rl-fec](https://github.com/alexbuyan/rl-fec)
+1. 📔 Created new repository [alexbuyan/rl-task](https://github.com/alexbuyan/rl-task)
 2. ⬆️ Pushed 1 commit(s) to [alexbuyan/rl-fec](https://github.com/alexbuyan/rl-fec)
 3. ⬆️ Pushed 1 commit(s) to [alexbuyan/rl-fec](https://github.com/alexbuyan/rl-fec)
-4. ⬆️ Pushed 1 commit(s) to [alexbuyan/resume_cv](https://github.com/alexbuyan/resume_cv)
+4. ⬆️ Pushed 1 commit(s) to [alexbuyan/rl-fec](https://github.com/alexbuyan/rl-fec)
 5. ⬆️ Pushed 1 commit(s) to [alexbuyan/resume_cv](https://github.com/alexbuyan/resume_cv)
 <!--RECENT_ACTIVITY:end-->   
 
