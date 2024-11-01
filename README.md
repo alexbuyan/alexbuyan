@@ -71,11 +71,11 @@ class Skills:
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [diffitask/llm-toxic-content-filtering](https://github.com/diffitask/llm-toxic-content-filtering)
-2. ⬆️ Pushed 2 commit(s) to [diffitask/llm-toxic-content-filtering](https://github.com/diffitask/llm-toxic-content-filtering)
-3. ⬆️ Pushed 1 commit(s) to [diffitask/llm-toxic-content-filtering](https://github.com/diffitask/llm-toxic-content-filtering)
-4. ⭐ Starred [girafe-ai/math-basics-for-ai](https://github.com/girafe-ai/math-basics-for-ai)
-5. 📔 Created new repository [alexbuyan/rl-task](https://github.com/alexbuyan/rl-task)
+1. ⬆️ Pushed 1 commit(s) to [AlekseyKorshuk/concordia](https://github.com/AlekseyKorshuk/concordia)
+2. ⬆️ Pushed 10 commit(s) to [AlekseyKorshuk/concordia](https://github.com/AlekseyKorshuk/concordia)
+3. ⬆️ Pushed 5 commit(s) to [AlekseyKorshuk/concordia](https://github.com/AlekseyKorshuk/concordia)
+4. ⬆️ Pushed 0 commit(s) to [AlekseyKorshuk/concordia](https://github.com/AlekseyKorshuk/concordia)
+5. 🎉 Merged PR [#1](https://github.com/AlekseyKorshuk/concordia/pull/1) in [AlekseyKorshuk/concordia](https://github.com/AlekseyKorshuk/concordia)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
