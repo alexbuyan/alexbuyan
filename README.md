@@ -71,11 +71,11 @@ class Skills:
 <br>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [AlekseyKorshuk/concordia](https://github.com/AlekseyKorshuk/concordia)
-2. ⬆️ Pushed 10 commit(s) to [AlekseyKorshuk/concordia](https://github.com/AlekseyKorshuk/concordia)
-3. ⬆️ Pushed 5 commit(s) to [AlekseyKorshuk/concordia](https://github.com/AlekseyKorshuk/concordia)
-4. ⬆️ Pushed 0 commit(s) to [AlekseyKorshuk/concordia](https://github.com/AlekseyKorshuk/concordia)
-5. 🎉 Merged PR [#1](https://github.com/AlekseyKorshuk/concordia/pull/1) in [AlekseyKorshuk/concordia](https://github.com/AlekseyKorshuk/concordia)
+1. ⬆️ Pushed 1 commit(s) to [zeinovich/fipi-parsing](https://github.com/zeinovich/fipi-parsing)
+2. 💪 Opened PR [#1](https://github.com/zeinovich/fipi-parsing/pull/1) in [zeinovich/fipi-parsing](https://github.com/zeinovich/fipi-parsing)
+3. ⬆️ Pushed 1 commit(s) to [AlekseyKorshuk/concordia](https://github.com/AlekseyKorshuk/concordia)
+4. ⬆️ Pushed 10 commit(s) to [AlekseyKorshuk/concordia](https://github.com/AlekseyKorshuk/concordia)
+5. ⬆️ Pushed 5 commit(s) to [AlekseyKorshuk/concordia](https://github.com/AlekseyKorshuk/concordia)
 <!--RECENT_ACTIVITY:end-->   
 
 </details>
